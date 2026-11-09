@@ -1,0 +1,38 @@
+/* TEAM */
+    Founder: Tensemi Team
+    Contact: hello@tensemi.com
+    From: Tenkasi, Tamil Nadu, India
+
+/* SITE */
+    Last update: 2024/12/19
+    Language: English
+    Doctype: HTML5
+    IDE: Visual Studio Code
+    Standards: HTML5, CSS3, JavaScript ES6+
+    Components: React, Tailwind CSS, Framer Motion
+    Software: Vite, TypeScript
+
+/* MISSION */
+    We are a semiconductor and electronics innovation company 
+    that proves world-class technology can emerge from rural India. 
+    We specialize in end-to-end semiconductor, PCB, and electronics 
+    system development from our base in Tenkasi.
+
+/* VALUES */
+    Innovation: Pushing boundaries in semiconductor technology
+    Quality: World-class standards from rural innovation  
+    Impact: Creating opportunities in rural communities
+    Excellence: Proving that great tech can come from anywhere
+
+/* THANKS */
+    Name: React Team
+    Name: Tailwind CSS Team
+    Name: Framer Motion Team
+    Name: Lucide React Team
+    Name: Vite Team
+
+/* SITE */
+    Name: Tensemi
+    URL: https://tensemi.com
+    Twitter: @tensemi
+    Location: Tenkasi, Tamil Nadu, India 
